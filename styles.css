@@ -1,1 +1,30 @@
 /* 🎓 تحت هذا التعليق أتحفونا بتصاميمكم التي تليق بقدر حاسبة الدرجات */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    color: azure;
+}
+
+.wrapper{
+    text-align: center;
+    background-color: aqua;
+    padding: 100px;
+    margin: 150px;
+}
+
+.idk{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1{
+    margin-bottom: 50px;
+}
+
+
